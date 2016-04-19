@@ -32,8 +32,7 @@
   "author": "Juan Tejada",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^0.14",
-    "react-dom": "^0.14"
+    "react": "^0.14"
   },
   "devDependencies": {
     "autoprefixer-loader": "^3.1.0",
